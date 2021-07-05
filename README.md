@@ -1,4 +1,4 @@
-#Proyecto Chat con React-Context 
+# Proyecto Chat con React-Context :email:
   
   Proyecto donde se utiliza firestore y el sistema de autenticación de Google Firebase. 
 
